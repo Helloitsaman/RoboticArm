@@ -129,11 +129,7 @@ Bluetooth_Robotic_Arm/
 │
 ├── Bluetooth_Robotic_Arm.ino
 ├── README.md
-├── images/
-│   ├── robotic_arm.jpg
-│   └── wiring_diagram.png
-└── videos/
-    └── demo.mp4
+├── RoboticArm4dof.mp4
 ```
 
 ---
